@@ -61,15 +61,17 @@ The mosfet's used are [IRLZ34N](https://www.tinytronics.nl/shop/en/components/mo
 
 ## Bill of Materials
 * 1x [Europe Magic Wand](https://www.bol.com/nl/nl/p/europe-magic-wand-clitoris-vibrator-massager-31-cm-stimulatiekop-6-cm/9200000012144020/?s2a=)
-* 1x [BreadBoard](https://www.tinytronics.nl/shop/en/tools-and-mounting/prototyping-supplies/breadboards/breadboard-400-points)
-* 1x [ESP2688 board](https://www.tinytronics.nl/shop/en/development-boards/microcontroller-boards/with-wi-fi/wemos-d1-mini-v4-esp8266-ch340) ordering 2 is smart. Usually few are killed before the end of a project.
-* 3x [IRLZ34N](https://www.tinytronics.nl/shop/en/components/mosfets-fets/irlz34n-power-mosfet-55v-30a) mosFET's
+* 1x [BreadBoard](https://www.tinytronics.nl/shop/en/tools-and-mounting/prototyping-supplies/breadboards/breadboard-400-points) or via [Ali-Express](https://www.aliexpress.com/item/32711841420.html)
+* 1x [ESP2688 board](https://www.tinytronics.nl/shop/en/development-boards/microcontroller-boards/with-wi-fi/wemos-d1-mini-v4-esp8266-ch340) ordering 2 is smart. Usually few are killed before the end of a project. [Ali-Express](https://www.aliexpress.com/item/32651747570.html)
+* 3x [IRLZ34N](https://www.tinytronics.nl/shop/en/components/mosfets-fets/irlz34n-power-mosfet-55v-30a) mosFET's or via [Ali_express](https://www.aliexpress.com/item/1005004428599672.html)
 * 3x [10kohm](https://www.tinytronics.nl/shop/en/components/resistors/resistors/10k%CF%89-resistor-(standard-pull-up-or-pull-down-resistor)) weerstand
+* 1x [1000uf capacitor](https://www.tinytronics.nl/shop/en/components/capacitors/1000uf-16v-elektrolytic-capacitor)
 * 1x [28AWG Wires](https://www.aliexpress.com/item/1005001609786868.html) via ali-express
 * 2x [DuPont jumper wires](https://www.tinytronics.nl/shop/en/cables-and-connectors/cables-and-adapters/prototyping-wires/dupont-compatible-and-jumper/dupont-jumper-wire-male-male-10cm-10-wires) or more.
 * 1x [micro USB port](https://www.tinytronics.nl/shop/en/cables-and-connectors/connectors/usb/micro-usb-2.0-female-to-dip-adapter)
 * 1x [micro USB plug](https://www.aliexpress.com/item/1005002362150113.html) via ali-express.
 
+I ordered these in the Netherlands, if you live somewhere else, use your preffered shop these parts are quite generic.
 
 ## Too lazy to integrate inside the magic wand
 I could probably integrate everyting on a tiny PCB and put it all inside the Wand. 

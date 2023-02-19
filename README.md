@@ -47,7 +47,7 @@ I used flexible wire [28AWG](https://www.aliexpress.com/item/1005001609786868.ht
 Here you can see the first tests in my super clean workshop.
 This scematic got everything up and running:
 
-![FRITZ](img/fritz.png)
+![FRITZ](img/Fritz.png)
 
 ![Scematic](img/Hitachi_schem.png)
 

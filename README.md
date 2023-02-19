@@ -59,6 +59,16 @@ The signals from the Magic Wand are pulled up to 5V. Be careful. Don't connect t
 Such boards can handle 3,3V signals max. For this experiment I have used this [module](https://www.wemos.cc/en/latest/d1/d1_mini_lite.html).
 The mosfet's used are [IRLZ34N](https://www.tinytronics.nl/shop/en/components/mosfets-fets/irlz34n-power-mosfet-55v-30a) these can more or less work with the 3.3V from this microcontroller.
 
+## Bill of Materials
+* 1x [Europe Magic Wand](https://www.bol.com/nl/nl/p/europe-magic-wand-clitoris-vibrator-massager-31-cm-stimulatiekop-6-cm/9200000012144020/?s2a=)
+* 1x [BreadBoard](https://www.tinytronics.nl/shop/en/tools-and-mounting/prototyping-supplies/breadboards/breadboard-400-points)
+* 1x [ESP2688 board](https://www.tinytronics.nl/shop/en/development-boards/microcontroller-boards/with-wi-fi/wemos-d1-mini-v4-esp8266-ch340) ordering 2 is smart. I usually kill a few before the end of project.
+* 3x [IRLZ34N](https://www.tinytronics.nl/shop/en/components/mosfets-fets/irlz34n-power-mosfet-55v-30a) mosFET's
+* 3x [10kohm](https://www.tinytronics.nl/shop/en/components/resistors/resistors/10k%CF%89-resistor-(standard-pull-up-or-pull-down-resistor) weerstand
+* 1x [28AWG Wires](https://www.aliexpress.com/item/1005001609786868.html) via ali-express
+* 2x [DuPont jumper wires](https://www.tinytronics.nl/shop/en/cables-and-connectors/cables-and-adapters/prototyping-wires/dupont-compatible-and-jumper/dupont-jumper-wire-male-male-10cm-10-wires) or more.
+* 1x [micro USB port](https://www.tinytronics.nl/shop/en/cables-and-connectors/connectors/usb/micro-usb-2.0-female-to-dip-adapter)
+* 1x [micro USB plug](https://www.aliexpress.com/item/1005002362150113.html) via ali-express.
 
 
 ## Too lazy to integrate inside the magic wand
@@ -75,5 +85,9 @@ I am waiting for a connector and hope it has 5 outputs as well. Most standard ca
 The software that was used can be found in this repository. Check the info inside the software to find the original code.
 These humans have learned me so much about ESP's. 
 
-
-
+[x] Add pictures and description
+[x] Add BOM.
+[ ] Add Video result.
+[ ] Make prototype with ESP-01S.
+[ ] Create 3D printed supports for this Magic unit.
+[ ] Write software to use the BLYNK interface:tada:

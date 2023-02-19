@@ -57,6 +57,8 @@ This scematic got everything up and running:
 
 The signals from the Magic Wand are pulled up to 5V. Be careful. Don't connect these directly to your ESP board, or you will fry it.
 Such boards can handle 3,3V signals max. For this experiment I have used this [module](https://www.wemos.cc/en/latest/d1/d1_mini_lite.html).
+The mosfet's used are [IRLZ34N](https://www.tinytronics.nl/shop/en/components/mosfets-fets/irlz34n-power-mosfet-55v-30a) these can more or less work with the 3.3V from this microcontroller.
+
 
 
 ## Too lazy to integrate inside the magic wand

@@ -64,7 +64,7 @@ The mosfet's used are [IRLZ34N](https://www.tinytronics.nl/shop/en/components/mo
 * 1x [BreadBoard](https://www.tinytronics.nl/shop/en/tools-and-mounting/prototyping-supplies/breadboards/breadboard-400-points)
 * 1x [ESP2688 board](https://www.tinytronics.nl/shop/en/development-boards/microcontroller-boards/with-wi-fi/wemos-d1-mini-v4-esp8266-ch340) ordering 2 is smart. I usually kill a few before the end of project.
 * 3x [IRLZ34N](https://www.tinytronics.nl/shop/en/components/mosfets-fets/irlz34n-power-mosfet-55v-30a) mosFET's
-* 3x [10kohm](https://www.tinytronics.nl/shop/en/components/resistors/resistors/10k%CF%89-resistor-(standard-pull-up-or-pull-down-resistor) weerstand
+* 3x [10kohm](https://www.tinytronics.nl/shop/en/components/resistors/resistors/10k%CF%89-resistor-(standard-pull-up-or-pull-down-resistor)) weerstand
 * 1x [28AWG Wires](https://www.aliexpress.com/item/1005001609786868.html) via ali-express
 * 2x [DuPont jumper wires](https://www.tinytronics.nl/shop/en/cables-and-connectors/cables-and-adapters/prototyping-wires/dupont-compatible-and-jumper/dupont-jumper-wire-male-male-10cm-10-wires) or more.
 * 1x [micro USB port](https://www.tinytronics.nl/shop/en/cables-and-connectors/connectors/usb/micro-usb-2.0-female-to-dip-adapter)

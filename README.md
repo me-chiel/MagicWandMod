@@ -4,6 +4,10 @@ Simple modification to get your "European Magic Wand" to the next IOT-level.
 ## Introduction
 Wouldn't it be cool to remote control more and more devices via online webinterfaces?
 I decided to have a go at this magic wand. With some help it turned out to be reasonably easy.
+With this mod you can switch the wand on or off and regulate the speed via a webbased interface.
+Bringing this ancient artifact to the new era of IOT.
+
+![web](img/web.png)
 
 ## Disassemble
 First remove 3 "hidden" philips screws.

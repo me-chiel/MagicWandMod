@@ -51,6 +51,10 @@ This scematic got everything up and running:
 
 ![Scematic](img/Hitachi_schem.png)
 
+The signals from the Magic Wand are pulled up to 5V. Be careful. Don't connect these directly to your ESP board, or you will fry it.
+Such boards can handle 3,3V signals max. For this experiment I have used this [module](https://www.wemos.cc/en/latest/d1/d1_mini_lite.html).
+
+
 ## Too lazy to integrate inside the magic wand
 I could probably integrate everyting on a tiny PCB and put it all inside the Wand. 
 sadly this was not the case and a [micro USB](https://www.tinytronics.nl/shop/en/cables-and-connectors/connectors/usb/micro-usb-2.0-female-to-dip-adapter) connector was used. 
@@ -62,7 +66,8 @@ sadly this was not the case and a [micro USB](https://www.tinytronics.nl/shop/en
 I am waiting for a connector and hope it has 5 outputs as well. Most standard cables don't have the IO pin connected. 
 
 ## Software
-The software I used can be found [here](https://randomnerdtutorials.com/esp32-esp8266-web-server-outputs-momentary-switch/)! (you need to add a few lines of code yourself but if you got this far that won't be a big problem either)
+The software that was used can be found in this repository. Check the info inside the software to find the original code.
+These humans have learned me so much about ESP's. 
 
 
 

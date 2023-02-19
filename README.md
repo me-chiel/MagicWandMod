@@ -54,6 +54,7 @@ This scematic got everything up and running:
 ## Too lazy to integrate inside the magic wand
 I could probably integrate everyting on a tiny PCB and put it all inside the Wand. 
 sadly this was not the case and a [micro USB](https://www.tinytronics.nl/shop/en/cables-and-connectors/connectors/usb/micro-usb-2.0-female-to-dip-adapter) connector was used. 
+
 ![USB](img/usb2.jpg)
 
 ![USB](img/usb.jpg)

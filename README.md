@@ -62,7 +62,7 @@ The mosfet's used are [IRLZ34N](https://www.tinytronics.nl/shop/en/components/mo
 ## Bill of Materials
 * 1x [Europe Magic Wand](https://www.bol.com/nl/nl/p/europe-magic-wand-clitoris-vibrator-massager-31-cm-stimulatiekop-6-cm/9200000012144020/?s2a=)
 * 1x [BreadBoard](https://www.tinytronics.nl/shop/en/tools-and-mounting/prototyping-supplies/breadboards/breadboard-400-points)
-* 1x [ESP2688 board](https://www.tinytronics.nl/shop/en/development-boards/microcontroller-boards/with-wi-fi/wemos-d1-mini-v4-esp8266-ch340) ordering 2 is smart. I usually kill a few before the end of project.
+* 1x [ESP2688 board](https://www.tinytronics.nl/shop/en/development-boards/microcontroller-boards/with-wi-fi/wemos-d1-mini-v4-esp8266-ch340) ordering 2 is smart. Usually few are killed before the end of a project.
 * 3x [IRLZ34N](https://www.tinytronics.nl/shop/en/components/mosfets-fets/irlz34n-power-mosfet-55v-30a) mosFET's
 * 3x [10kohm](https://www.tinytronics.nl/shop/en/components/resistors/resistors/10k%CF%89-resistor-(standard-pull-up-or-pull-down-resistor)) weerstand
 * 1x [28AWG Wires](https://www.aliexpress.com/item/1005001609786868.html) via ali-express

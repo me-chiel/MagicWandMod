@@ -87,9 +87,11 @@ I am waiting for a connector and hope it has 5 outputs as well. Most standard ca
 The software that was used can be found in this repository. Check the info inside the software to find the original code.
 These humans have learned me so much about ESP's. 
 
-[x] Add pictures and description
-[x] Add BOM.
-[ ] Add Video result.
-[ ] Make prototype with ESP-01S.
-[ ] Create 3D printed supports for this Magic unit.
-[ ] Write software to use the BLYNK interface:tada:
+## ToDo (somewhere in the next decade)
+
+- [x] Add pictures and description
+- [x] Add BOM.
+- [ ] Add Video result.
+- [ ] Make prototype with ESP-01S.
+- [ ] Create 3D printed supports for this Magic unit.
+- [ ] Write software to use the BLYNK interface:tada:
